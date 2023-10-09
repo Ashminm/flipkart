@@ -14,7 +14,7 @@ html,body{
 }
 body{
     background-color: #f5f5f5;
-    font-family: Riona Sans Bold Italic.;
+    font-family: "Riona Sans" Bold Italic;
 }
 body::-webkit-scrollbar{
     display: none;
@@ -105,7 +105,7 @@ header{
  
 .dropdown {
     position: relative;
-    display: inline-block;
+    display: inline-block; 
 }
   
 .dropdown-content {
@@ -122,7 +122,7 @@ header{
     padding: 10px 10px;
     text-decoration: none;
     display: block;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .dropdown-content a:hover {background-color: #fff;}
